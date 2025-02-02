@@ -1,0 +1,164 @@
+﻿Product,Order_Status,Geo,Sum of Boxes
+50% Dark Bites,Cancelled,India,7415
+50% Dark Bites,Cancelled,USA,3348
+50% Dark Bites,Delivered,India,7415
+50% Dark Bites,Delivered,New Zealand,2659
+50% Dark Bites,Delivered,UK,4997
+50% Dark Bites,Delivered,USA,3348
+70% Dark Bites,Cancelled,India,11593
+70% Dark Bites,Cancelled,UK,7897
+70% Dark Bites,Cancelled,USA,8681
+70% Dark Bites,Delivered,India,11593
+70% Dark Bites,Delivered,New Zealand,7168
+70% Dark Bites,Delivered,UK,7897
+70% Dark Bites,Delivered,USA,8681
+85% Dark Bars,Cancelled,India,91705
+85% Dark Bars,Cancelled,New Zealand,39830
+85% Dark Bars,Cancelled,UK,99689
+85% Dark Bars,Cancelled,USA,75276
+85% Dark Bars,Delivered,India,91705
+85% Dark Bars,Delivered,New Zealand,39830
+85% Dark Bars,Delivered,UK,99689
+85% Dark Bars,Delivered,USA,75276
+99% Dark & Pure,Cancelled,India,36504
+99% Dark & Pure,Cancelled,New Zealand,22160
+99% Dark & Pure,Cancelled,UK,30874
+99% Dark & Pure,Cancelled,USA,25772
+99% Dark & Pure,Delivered,India,36504
+99% Dark & Pure,Delivered,New Zealand,22160
+99% Dark & Pure,Delivered,UK,30874
+99% Dark & Pure,Delivered,USA,25772
+After Nines,Cancelled,India,17061
+After Nines,Cancelled,UK,14182
+After Nines,Cancelled,USA,9273
+After Nines,Delivered,India,17061
+After Nines,Delivered,New Zealand,7564
+After Nines,Delivered,UK,14182
+After Nines,Delivered,USA,9273
+Almond Choco,Cancelled,New Zealand,5443
+Almond Choco,Cancelled,USA,10988
+Almond Choco,Delivered,India,12221
+Almond Choco,Delivered,New Zealand,5443
+Almond Choco,Delivered,UK,13802
+Almond Choco,Delivered,USA,10988
+Baker's Choco Chips,Cancelled,India,11699
+Baker's Choco Chips,Cancelled,New Zealand,5026
+Baker's Choco Chips,Cancelled,UK,17496
+Baker's Choco Chips,Delivered,India,11699
+Baker's Choco Chips,Delivered,New Zealand,5026
+Baker's Choco Chips,Delivered,UK,17496
+Baker's Choco Chips,Delivered,USA,9461
+Caramel Stuffed Bars,Cancelled,India,51261
+Caramel Stuffed Bars,Cancelled,New Zealand,31113
+Caramel Stuffed Bars,Cancelled,UK,63328
+Caramel Stuffed Bars,Cancelled,USA,40933
+Caramel Stuffed Bars,Delivered,India,51261
+Caramel Stuffed Bars,Delivered,New Zealand,31113
+Caramel Stuffed Bars,Delivered,UK,63328
+Caramel Stuffed Bars,Delivered,USA,40933
+Choco Coated Almonds,Cancelled,India,48858
+Choco Coated Almonds,Cancelled,New Zealand,19052
+Choco Coated Almonds,Cancelled,UK,58839
+Choco Coated Almonds,Cancelled,USA,38045
+Choco Coated Almonds,Delivered,India,48858
+Choco Coated Almonds,Delivered,New Zealand,19052
+Choco Coated Almonds,Delivered,UK,58839
+Choco Coated Almonds,Delivered,USA,38045
+Drinking Coco,Cancelled,India,20500
+Drinking Coco,Cancelled,New Zealand,10168
+Drinking Coco,Cancelled,UK,20655
+Drinking Coco,Cancelled,USA,17622
+Drinking Coco,Delivered,India,20500
+Drinking Coco,Delivered,New Zealand,10168
+Drinking Coco,Delivered,UK,20655
+Drinking Coco,Delivered,USA,17622
+Eclairs,Cancelled,India,7668
+Eclairs,Cancelled,UK,5559
+Eclairs,Delivered,India,7668
+Eclairs,Delivered,New Zealand,3280
+Eclairs,Delivered,UK,5559
+Eclairs,Delivered,USA,5535
+Fruit & Nut Bars,Cancelled,India,32948
+Fruit & Nut Bars,Cancelled,New Zealand,18198
+Fruit & Nut Bars,Cancelled,UK,34472
+Fruit & Nut Bars,Cancelled,USA,29445
+Fruit & Nut Bars,Delivered,India,32948
+Fruit & Nut Bars,Delivered,New Zealand,18198
+Fruit & Nut Bars,Delivered,UK,34472
+Fruit & Nut Bars,Delivered,USA,29445
+Manuka Honey Choco,Cancelled,India,96840
+Manuka Honey Choco,Cancelled,New Zealand,51737
+Manuka Honey Choco,Cancelled,UK,83517
+Manuka Honey Choco,Cancelled,USA,66139
+Manuka Honey Choco,Delivered,India,96840
+Manuka Honey Choco,Delivered,New Zealand,51737
+Manuka Honey Choco,Delivered,UK,83517
+Manuka Honey Choco,Delivered,USA,66139
+Milk Bars,Cancelled,India,39584
+Milk Bars,Cancelled,UK,37832
+Milk Bars,Cancelled,USA,28689
+Milk Bars,Delivered,India,39584
+Milk Bars,Delivered,New Zealand,22294
+Milk Bars,Delivered,UK,37832
+Milk Bars,Delivered,USA,28689
+Mint Chip Choco,Cancelled,India,75279
+Mint Chip Choco,Cancelled,UK,74794
+Mint Chip Choco,Cancelled,USA,57822
+Mint Chip Choco,Delivered,India,75279
+Mint Chip Choco,Delivered,New Zealand,33292
+Mint Chip Choco,Delivered,UK,74794
+Mint Chip Choco,Delivered,USA,57822
+Orange Choco,Cancelled,India,7836
+Orange Choco,Cancelled,New Zealand,2405
+Orange Choco,Cancelled,UK,9666
+Orange Choco,Cancelled,USA,4018
+Orange Choco,Delivered,India,7836
+Orange Choco,Delivered,New Zealand,2405
+Orange Choco,Delivered,UK,9666
+Orange Choco,Delivered,USA,4018
+Organic Choco Syrup,Cancelled,India,40133
+Organic Choco Syrup,Cancelled,New Zealand,22751
+Organic Choco Syrup,Cancelled,UK,44150
+Organic Choco Syrup,Cancelled,USA,30671
+Organic Choco Syrup,Delivered,India,40133
+Organic Choco Syrup,Delivered,New Zealand,22751
+Organic Choco Syrup,Delivered,UK,44150
+Organic Choco Syrup,Delivered,USA,30671
+Peanut Butter Cubes,Cancelled,India,42429
+Peanut Butter Cubes,Cancelled,UK,42077
+Peanut Butter Cubes,Cancelled,USA,34525
+Peanut Butter Cubes,Delivered,India,42429
+Peanut Butter Cubes,Delivered,New Zealand,19317
+Peanut Butter Cubes,Delivered,UK,42077
+Peanut Butter Cubes,Delivered,USA,34525
+Raspberry Choco,Cancelled,India,110798
+Raspberry Choco,Cancelled,New Zealand,64056
+Raspberry Choco,Cancelled,UK,112519
+Raspberry Choco,Cancelled,USA,88024
+Raspberry Choco,Delivered,India,110798
+Raspberry Choco,Delivered,New Zealand,64056
+Raspberry Choco,Delivered,UK,112519
+Raspberry Choco,Delivered,USA,88024
+Smooth Silky Salty,Cancelled,India,38356
+Smooth Silky Salty,Cancelled,New Zealand,22461
+Smooth Silky Salty,Cancelled,USA,31563
+Smooth Silky Salty,Delivered,India,38356
+Smooth Silky Salty,Delivered,New Zealand,22461
+Smooth Silky Salty,Delivered,UK,39751
+Smooth Silky Salty,Delivered,USA,31563
+Spicy Special Slims,Cancelled,India,45515
+Spicy Special Slims,Cancelled,New Zealand,26004
+Spicy Special Slims,Cancelled,UK,54697
+Spicy Special Slims,Cancelled,USA,33181
+Spicy Special Slims,Delivered,India,45515
+Spicy Special Slims,Delivered,New Zealand,26004
+Spicy Special Slims,Delivered,UK,54697
+Spicy Special Slims,Delivered,USA,33181
+White Choc,Cancelled,India,28519
+White Choc,Cancelled,New Zealand,13583
+White Choc,Cancelled,UK,32145
+White Choc,Cancelled,USA,19797
+White Choc,Delivered,India,28519
+White Choc,Delivered,New Zealand,13583
+White Choc,Delivered,UK,32145
+White Choc,Delivered,USA,19797
